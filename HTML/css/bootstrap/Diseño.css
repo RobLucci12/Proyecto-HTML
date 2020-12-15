@@ -1,0 +1,30 @@
+h1{
+	font-size: 56px;
+	color: #268FC6;
+	text-align: justify;
+	text-transform: capitalize;
+}
+a{
+	color: #1FFF04;
+	text-decoration: none;
+}
+a:hover {
+	color:green;
+} /* esta actividad es cuando paso la fecha en el enlace y cambia de color */
+.encabezadorojo{
+	color:red;
+	text-transform: none;
+}
+.encabezadoverde{
+	color: green;
+	text-transform: none;
+}
+#principal {
+	background-image: url("../Imagenes/diamond.png");
+	background-repeat: no-repeat;
+}
+/* Div */
+#contenedor {
+	background-color: 
+	
+}
